@@ -1,5 +1,5 @@
-# ランダムな引用文を翻訳する
-このコードは、[API Ninjas](https://api-ninjas.com/)を使用してランダムな引用文を取得し、[DeepL API](https://www.deepl.com/translator)を使用して英語から日本語に翻訳する方法を示しています。
+# ランダムな名言を翻訳する
+このコードは、[API Ninjas](https://api-ninjas.com/)を使用してランダムな名言を取得し、[DeepL API](https://www.deepl.com/translator)を使用して英語から日本語に翻訳する方法を示しています。
 
 ## 使い方
 .envファイルにAPIキーを保存してください。必要なAPIキーは、API_NINJA_KEYとDEEPL_API_KEYです。
